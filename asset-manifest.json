@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/react-probooks/static/css/main.698fb3c1.css",
-    "main.js": "/react-probooks/static/js/main.1fc4b05f.js",
-    "static/js/787.f5db70bc.chunk.js": "/react-probooks/static/js/787.f5db70bc.chunk.js",
+    "main.js": "/react-probooks/static/js/main.b46daf23.js",
     "index.html": "/react-probooks/index.html",
     "main.698fb3c1.css.map": "/react-probooks/static/css/main.698fb3c1.css.map",
-    "main.1fc4b05f.js.map": "/react-probooks/static/js/main.1fc4b05f.js.map",
-    "787.f5db70bc.chunk.js.map": "/react-probooks/static/js/787.f5db70bc.chunk.js.map"
+    "main.b46daf23.js.map": "/react-probooks/static/js/main.b46daf23.js.map"
   },
   "entrypoints": [
     "static/css/main.698fb3c1.css",
-    "static/js/main.1fc4b05f.js"
+    "static/js/main.b46daf23.js"
   ]
 }
